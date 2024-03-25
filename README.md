@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://ouchenemohamednourelislem.web.app/**
 
-- ⚡ Fun fact **if someone did something then you can do it to as long as you believe in your self**
+- ⚡ Fun fact **if someone did something then you can do it too as long as you believe in your self**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
