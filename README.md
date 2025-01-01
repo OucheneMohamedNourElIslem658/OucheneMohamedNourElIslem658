@@ -67,6 +67,6 @@
 <h3 align="left">Most used languages:</h3>
 <p align="left"> 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OucheneMohamedNourElIslem658&show_icons=true&locale=en&layout=compact&hide=java,kotlin,html" alt="OucheneMohamedNourElIslem658" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OucheneMohamedNourElIslem658&show_icons=true&locale=en&layout=compact&hide=java,kotlin,html,Swift,Objective-C" alt="OucheneMohamedNourElIslem658" />
 </p>
 </p>
