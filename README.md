@@ -71,6 +71,18 @@
   <a href="https://gorilla.github.io/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:400/1*5QBUnkCjT_m0amIHeweqGg.png" alt="gorilla" width="40" height="40"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20is%20a%20computer%20communications,Control%20Protocol%20(TCP)%20connection." target="_blank" rel="noreferrer">
+    <img src="https://images.seeklogo.com/logo-png/28/1/websocket-logo-png_seeklogo-286189.png" alt="websockets" width="40" height="40"/>
+  </a>
+  <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4BxIov43BTB9UcXpNl93hWRvfYIZ5u1l9A&s" alt="webrtc" width="40" height="40"/>
+  </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/162/702/png-transparent-socket-io-node-js-express-js-npm-network-socket-github-angle-triangle-logo.png" alt="socket.io" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://grafikart.fr/uploads/icons/redis.svg" alt="redis" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Most used languages:</h3>
