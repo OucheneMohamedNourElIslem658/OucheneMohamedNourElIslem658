@@ -68,9 +68,6 @@
   <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuh3xC2anblIfdZYggZw3sKKG3dX9HX_K89Q&s" alt="gin" width="40" height="40"/>
   </a> 
-  <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuh3xC2anblIfdZYggZw3sKKG3dX9HX_K89Q&s" alt="gin" width="40" height="40"/>
-  </a>
   <a href="https://gorilla.github.io/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:400/1*5QBUnkCjT_m0amIHeweqGg.png" alt="gorilla" width="40" height="40"/>
   </a>
