@@ -89,6 +89,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="html" width="50" height="40"/>
   </a>
+  <a href="https://min.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="html" width="50" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Most used languages:</h3>
