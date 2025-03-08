@@ -75,7 +75,7 @@
     <img src="https://w7.pngwing.com/pngs/667/16/png-transparent-websocket-hd-logo-thumbnail.png" alt="websockets" width="50" height="40"/>
   </a>
   <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4BxIov43BTB9UcXpNl93hWRvfYIZ5u1l9A&s" alt="webrtc" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4BxIov43BTB9UcXpNl93hWRvfYIZ5u1l9A&s" alt="webrtc" width="40" height="45"/>
   </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket.io" width="40" height="40"/>
