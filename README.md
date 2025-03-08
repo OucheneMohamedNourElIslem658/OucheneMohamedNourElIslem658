@@ -83,6 +83,9 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://grafikart.fr/uploads/icons/redis.svg" alt="redis" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Most used languages:</h3>
