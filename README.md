@@ -72,19 +72,22 @@
     <img src="https://miro.medium.com/v2/resize:fit:400/1*5QBUnkCjT_m0amIHeweqGg.png" alt="gorilla" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20is%20a%20computer%20communications,Control%20Protocol%20(TCP)%20connection." target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/667/16/png-transparent-websocket-hd-logo-thumbnail.png" alt="websockets" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/667/16/png-transparent-websocket-hd-logo-thumbnail.png" alt="websockets" width="50" height="40"/>
   </a>
   <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4BxIov43BTB9UcXpNl93hWRvfYIZ5u1l9A&s" alt="webrtc" width="40" height="40"/>
   </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/162/702/png-transparent-socket-io-node-js-express-js-npm-network-socket-github-angle-triangle-logo.png" alt="socket.io" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket.io" width="40" height="40"/>
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://grafikart.fr/uploads/icons/redis.svg" alt="redis" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="html" width="50" height="40"/>
   </a>
 </p>
 
