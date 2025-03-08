@@ -98,6 +98,9 @@
   <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="50" height="40"/>
   </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node js" width="50" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Most used languages:</h3>
