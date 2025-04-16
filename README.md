@@ -18,7 +18,7 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://expressjs.com/images/brand/logotype-dark.svg" alt="express" width="40" height="40"/> 
   </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
@@ -78,7 +78,7 @@
     <img src="https://www.svgrepo.com/show/354551/webrtc.svg" alt="webrtc" width="40" height="45"/>
   </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket.io" width="40" height="40"/>
+    <img src="https://socket.io/images/logo-dark.svg" alt="socket.io" width="40" height="40"/>
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://grafikart.fr/uploads/icons/redis.svg" alt="redis" width="40" height="40"/>
