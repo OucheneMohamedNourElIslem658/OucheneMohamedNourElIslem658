@@ -69,13 +69,13 @@
     <img src="https://avatars.githubusercontent.com/u/7894478?s=48&v=4" alt="gin" width="40" height="40"/>
   </a> 
   <a href="https://gorilla.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:400/1*5QBUnkCjT_m0amIHeweqGg.png" alt="gorilla" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:400/1*5QBUnkCjT_m0amIHeweqGg.png" alt="gorilla" width="50" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20is%20a%20computer%20communications,Control%20Protocol%20(TCP)%20connection." target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/667/16/png-transparent-websocket-hd-logo-thumbnail.png" alt="websockets" width="50" height="40"/>
+    <img src="https://www.svgrepo.com/show/354553/websocket.svg" alt="websockets" width="50" height="40"/>
   </a>
   <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4BxIov43BTB9UcXpNl93hWRvfYIZ5u1l9A&s" alt="webrtc" width="40" height="45"/>
+    <img src="https://www.svgrepo.com/show/354551/webrtc.svg" alt="webrtc" width="40" height="45"/>
   </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket.io" width="40" height="40"/>
@@ -100,6 +100,9 @@
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node js" width="50" height="40"/>
+  </a>
+  <a href="https://fr.react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react js" width="50" height="40"/>
   </a>
 </p>
 
