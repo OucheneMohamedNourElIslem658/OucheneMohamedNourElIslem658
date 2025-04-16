@@ -104,6 +104,9 @@
   <a href="https://fr.react.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react js" width="50" height="40"/>
   </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="material ui" width="50" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Most used languages:</h3>
