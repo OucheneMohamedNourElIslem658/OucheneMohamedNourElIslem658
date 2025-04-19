@@ -90,7 +90,7 @@
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="50" height="40"/>
   </a>
   <a href="https://min.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="minio" width="50" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" alt="minio" width="50" height="40"/>
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="50" height="40"/>
