@@ -72,7 +72,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:400/1*5QBUnkCjT_m0amIHeweqGg.png" alt="gorilla" width="50" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20is%20a%20computer%20communications,Control%20Protocol%20(TCP)%20connection." target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354553/websocket.svg" alt="websockets" width="50" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/ouchenemohamednourelislem.appspot.com/o/images%2Fwebsocket-svgrepo-com%20(1).svg?alt=media&token=0329990c-b76a-42cf-8e6c-8d2da6d3ad4c" alt="websockets" width="50" height="40"/>
   </a>
   <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/354551/webrtc.svg" alt="webrtc" width="40" height="45"/>
