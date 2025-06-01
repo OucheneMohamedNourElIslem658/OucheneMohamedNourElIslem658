@@ -110,6 +110,9 @@
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="80" height="40"/>
   </a>
+  <a href="https://livekit.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/livekit-color.png" alt="livekit" width="35" height="35"/> 
+  </a> 
 </p>
 
 <h3 align="left">Most used languages:</h3>
