@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @OucheneMohamedNourElIslem658</h1>
 <h3 align="center">A passionate in computer science and fullstack cross-platform development</h3>
 
-- 🔭 I’m currently working on **Go**
+- 🔭 I’m currently working on **React**
 
-- 💬 Ask me about **flutter, firebase, golang**
+- 💬 Ask me about **flutter, golang**
 
 - 📫 How to reach me **https://ouchenemohamednourelislem.web.app/**
 
